@@ -3,6 +3,6 @@ Descarga archivos jwpub en yoremokki fuera del catálogo oficial de jw.org
 
 Instalación:
 
-i. Abra JW Library
-ii. Vaya a Biblioteca
-iii. Luego a  Catálogo de artículos
+1. Abra JW Library
+2. Vaya a Biblioteca
+3. Luego a Folletos
