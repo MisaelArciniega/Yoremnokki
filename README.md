@@ -1,4 +1,4 @@
-# Cuadérno-ju-Conmemoracionnta-2024ta-bechïbo
+# Yoremnokki
 Descarga archivos jwpub en yoremokki fuera del catálogo oficial de jw.org
 
 Instalación:
