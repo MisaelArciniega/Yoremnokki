@@ -6,3 +6,7 @@ Instalación:
 1. Abra el archivo con JW Library
 2. Vaya a Biblioteca
 3. Luego a Folletos
+
+Archivos disponibles:
+1. liffc: ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana (folleto) 
+cdrn-mi24: Cuadérno jü Conmemoracionta 2024ta bechïbo
