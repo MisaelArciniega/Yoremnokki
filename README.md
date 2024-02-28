@@ -1,5 +1,5 @@
 # Yoremnokki
-Descarga archivos jwpub en yoremokki fuera del catálogo oficial de jw.org
+Descarga archivos jwpub en yoremnokki fuera del catálogo oficial de jw.org
 
 Instalación:
 
