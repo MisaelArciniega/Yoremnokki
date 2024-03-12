@@ -5,7 +5,7 @@ Instalación:
 
 1. Abra el archivo con JW Library
 2. Vaya a Biblioteca
-3. Luego a Folletos
+3. Luego a Folletos o Libros
 
 Archivos disponibles:
 1. liffc: ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana (folleto) 
