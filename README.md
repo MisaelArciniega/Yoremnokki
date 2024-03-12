@@ -9,8 +9,8 @@ Instalación:
 
 Archivos disponibles:
 * FOLLETOS
-1. liffc: ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana
+1. lffic: ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana
 2. cdrn-mi24: Cuadérno jü Conmemoracionta 2024ta bechïbo
 
 * LIBROS
-1. liffc: ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini
+1. lffc: ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini
