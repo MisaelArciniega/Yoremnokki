@@ -13,4 +13,4 @@ Archivos disponibles:
 2. cdrn-mi24: Cuadérno jü Conmemoracionta 2024ta bechïbo
 
 * LIBROS
-1. liffc: ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini (libro)
+1. liffc: ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini
